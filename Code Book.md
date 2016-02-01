@@ -163,6 +163,7 @@ frequencyBodyGyroscopeJerkMagnitudeMean
 
 frequencyBodyGyroscopeJerkMagnitudeStd
 
+##Activity Labels
 
 WALKING (value 1): subject was walking during the test
 
